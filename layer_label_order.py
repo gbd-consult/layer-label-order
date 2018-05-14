@@ -8,7 +8,7 @@
                               -------------------
         begin                : 2018-05-07
         git sha              : $Format:%H$
-        copyright            : (C) 2018 by GBD Consult GmbH
+        copyright            : (C) 2018 by Geoinformatikbüro Dassau GmbH
         email                : gebbert@gbd-consult.de
  ***************************************************************************/
 

@@ -11,7 +11,7 @@ name=Layer Label Order
 qgisMinimumVersion=3.0
 description=Plugin zur Festlegung der Labelrangfolge
 version=0.1
-author=GBD Consult GmbH
+author=Geoinformatikbüro Dassau GmbH
 email=gebbert@gbd-consult.de
 
 about=Festlgeung der Labelrangfolge für Vectorlayers
