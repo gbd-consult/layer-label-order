@@ -1318,7 +1318,7 @@ def my_form_open(dialog, layer, feature):
       <value></value>
     </WMSKeywordList>
     <WMSAddWktGeometry type="bool">true</WMSAddWktGeometry>
-    <WMSRootName type="QString">Layerlabelorder</WMSRootName>
+    <WMSRootName type="QString">labelabove</WMSRootName>
     <WCSUrl type="QString"></WCSUrl>
     <Measure>
       <Ellipsoid type="QString">WGS84</Ellipsoid>
